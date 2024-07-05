@@ -15,10 +15,15 @@ export default defineConfig({
         ],
       },
       {
-        text: "Examples",
+        text: "HTML",
         items: [
-          { text: "Markdown Examples", link: "/example/markdown-examples" },
-          { text: "Runtime API Examples", link: "/example/api-examples" },
+          { text: "html example", link: "/html/html-example" },
+        ],
+      },
+      {
+        text: "CSS",
+        items: [
+          { text: "css example", link: "/css/css-example" },
         ],
       },
     ],
