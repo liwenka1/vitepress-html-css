@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "html&css"
-  text: "一本 HTML&CSS 的书籍"
+  name: 'html&css'
+  text: '一本 HTML&CSS 的书籍'
   tagline: My great project tagline
   actions:
     - theme: brand
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-

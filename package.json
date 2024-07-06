@@ -1,10 +1,12 @@
 {
   "devDependencies": {
+    "prettier": "^3.3.2",
     "vitepress": "^1.2.3"
   },
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "docs:preview": "vitepress preview",
+    "format": "prettier --write \"**/*.{js,mts,ts,vue,css,json,md}\""
   }
 }
