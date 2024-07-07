@@ -14,7 +14,10 @@ export default defineConfig({
       },
       {
         text: 'HTML',
-        items: [{ text: 'html example', link: '/html/html-example' }]
+        items: [
+          { text: 'html example', link: '/html/html-example' },
+          { text: '什么是HTML', link: '/html/what.md' }
+        ]
       },
       {
         text: 'CSS',
